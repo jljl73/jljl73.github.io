@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Resume
 
-You can use the [editor on GitHub](https://github.com/jljl73/jljl73.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+전민용  
+jljl73@naver.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Study
+**2014.03 ~ 2021.02**  
+성균관대학교 컴퓨터공학과 전공
 
-### Markdown
+**2019.07.15 ~ 2019.07.26**
+삼성SDS, 대학생 고급 알고리즘 특강
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2021.04.13 ~ 2022.02.11 (205일 1640시간)**
+인하대학교 미래인재개발원, AR 인공지능 게임 프로그램 개발
 
-```markdown
-Syntax highlighted code block
+---
+### Language
+영어 (OPIc IM2) 2020.04.10
 
-# Header 1
-## Header 2
-### Header 3
+---
+### SKill
+- C/C++
+- C#, Unity
+- Python, Tensorflow
+- DirectX(수준 하), Unreal (수준 하)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+---
+### Project
+**2018.07 ~ 2018.12**  
+[산학 프로젝트] Fraud Detection System (Autoencoder, Keras, Pandas)
 
-**Bold** and _Italic_ and `Code` text
+**2019.09 ~ 2019.12**  
+Restaurant Recommendation with group (Collaborate Filtering, Android)  
 
-[Link](url) and ![Image](src)
-```
+**2020.03 ~ 2020.12**  
+[졸업 작품] Deepfake Detection (Tensorflow, Keras, OpenCV)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**2021.07 ~ 2021.08 (3주)**  
+[개인 프로젝트] WinAPI 메탈슬러그2 모작  
+[Youtube](https://www.youtube.com/watch?v=aGZTtrfD3wI)
 
-### Jekyll Themes
+**2021.08 ~ 2021.09 (2주)**  
+[개인 프로젝트] WinAPI 땅따먹기(갈스패닉) 모작  
+[Youtube](https://www.youtube.com/watch?v=Hp9N_rI2t2Q)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jljl73/jljl73.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**2021.09 ~ 2021.12 (3달반)**  
+[팀 프로젝트] 유니티 프로젝트, RPG 클리니아 연대기(핵앤 슬래시 기반) 개발  
+[Youtube](https://youtu.be/N1gb_Yjo1VQ)  
+[Github](https://github.com/jljl73/Cleania_Project)  
 
-### Support or Contact
+__2021.12 ~ 2022.01 (1달)__  
+[개인 프로젝트] 유니티 프로젝트, RPG Crescent Hunter(헌터류 기반) 개발
+[Github](https://github.com/jljl73/CrescentHunter)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+---
+### Prize
+인하대학교 미래인재개발원 AR 인공지능 게임 프로그램 개발, 개발부문 우수상
